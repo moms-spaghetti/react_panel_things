@@ -6,7 +6,7 @@ With further learning of React I created this page which maps over data from an 
 
 ## Details
 
-This page shows how an array of data can be mapped over to render multiple items on a page. Also, applied basic css (flexbox) to arrange rendered elements in card format. Utilises npm modules uuid and lorem-ipsum to create valid keys for each card and populate with data respectively.
+This page shows how an array of data can be mapped over to render multiple items on a page. Also, applied basic css flexbox to arrange rendered elements in card format. Utilises npm modules uuid and lorem-ipsum to create valid keys for each card and populate with data respectively.
 <br/><br/>
 
 ## Built With
